@@ -1,0 +1,14 @@
+C:\Users\vgj24\source\repos\Dayweek\bin\Debug\net6.0\Dayweek.exe
+C:\Users\vgj24\source\repos\Dayweek\bin\Debug\net6.0\Dayweek.deps.json
+C:\Users\vgj24\source\repos\Dayweek\bin\Debug\net6.0\Dayweek.runtimeconfig.json
+C:\Users\vgj24\source\repos\Dayweek\bin\Debug\net6.0\Dayweek.dll
+C:\Users\vgj24\source\repos\Dayweek\bin\Debug\net6.0\ref\Dayweek.dll
+C:\Users\vgj24\source\repos\Dayweek\bin\Debug\net6.0\Dayweek.pdb
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.dll
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\ref\Dayweek.dll
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.pdb
+C:\Users\vgj24\source\repos\Dayweek\obj\Debug\net6.0\Dayweek.genruntimeconfig.cache
