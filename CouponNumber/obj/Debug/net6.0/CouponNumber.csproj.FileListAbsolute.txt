@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\CouponNumber\bin\Debug\net6.0\CouponNumber.exe
+C:\Users\vgj24\source\repos\CouponNumber\bin\Debug\net6.0\CouponNumber.deps.json
+C:\Users\vgj24\source\repos\CouponNumber\bin\Debug\net6.0\CouponNumber.runtimeconfig.json
+C:\Users\vgj24\source\repos\CouponNumber\bin\Debug\net6.0\CouponNumber.dll
+C:\Users\vgj24\source\repos\CouponNumber\bin\Debug\net6.0\ref\CouponNumber.dll
+C:\Users\vgj24\source\repos\CouponNumber\bin\Debug\net6.0\CouponNumber.pdb
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.dll
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\ref\CouponNumber.dll
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.pdb
+C:\Users\vgj24\source\repos\CouponNumber\obj\Debug\net6.0\CouponNumber.genruntimeconfig.cache
