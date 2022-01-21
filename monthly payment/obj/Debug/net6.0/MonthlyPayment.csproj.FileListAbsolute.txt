@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\monthly payment\bin\Debug\net6.0\MonthlyPayment.exe
+C:\Users\vgj24\source\repos\monthly payment\bin\Debug\net6.0\MonthlyPayment.deps.json
+C:\Users\vgj24\source\repos\monthly payment\bin\Debug\net6.0\MonthlyPayment.runtimeconfig.json
+C:\Users\vgj24\source\repos\monthly payment\bin\Debug\net6.0\MonthlyPayment.dll
+C:\Users\vgj24\source\repos\monthly payment\bin\Debug\net6.0\ref\MonthlyPayment.dll
+C:\Users\vgj24\source\repos\monthly payment\bin\Debug\net6.0\MonthlyPayment.pdb
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.dll
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\ref\MonthlyPayment.dll
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.pdb
+C:\Users\vgj24\source\repos\monthly payment\obj\Debug\net6.0\MonthlyPayment.genruntimeconfig.cache
