@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.exe
+C:\Users\vgj24\source\repos\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.deps.json
+C:\Users\vgj24\source\repos\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.runtimeconfig.json
+C:\Users\vgj24\source\repos\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.dll
+C:\Users\vgj24\source\repos\TemperatureConversion\bin\Debug\net6.0\ref\TemperatureConversion.dll
+C:\Users\vgj24\source\repos\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.pdb
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.dll
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\ref\TemperatureConversion.dll
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.pdb
+C:\Users\vgj24\source\repos\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.genruntimeconfig.cache
